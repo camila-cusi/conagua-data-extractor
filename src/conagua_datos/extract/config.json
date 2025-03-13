@@ -1,0 +1,6 @@
+{
+    "rain_url": "https://datos.conagua.gob.mx/DatosAbiertos/Precipitacion.zip",
+    "temp_url": "https://datos.conagua.gob.mx/DatosAbiertos/Temperatura_Promedio_Excel.zip",
+    "new_info_url": "https://smn.conagua.gob.mx/tools/DATA/Climatolog%C3%ADa/Pron%C3%B3stico%20clim%C3%A1tico/Temperatura%20y%20Lluvia/",
+    "pronostic_url" : "https://smn.conagua.gob.mx/tools/RESOURCES/com_archivos_pronosticos_climaticos/"
+}
